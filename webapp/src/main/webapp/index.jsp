@@ -3,7 +3,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Registration</title>
+        <title>New Registration Form</title>
     </head>
     <body bgcolor="silver">
         <form method="post" action="userRegistration.jsp">
@@ -36,7 +36,7 @@
                         <td><input type="password" name="password" value="" /></td>
                     </tr>
 		    <tr>
-                        <td>Password1</td>
+                        <td>Password2</td>
                         <td><input type="password1" name="password1" value="" /></td>
                     </tr>
                     <tr>
