@@ -35,6 +35,10 @@
                         <td>Password</td>
                         <td><input type="password" name="password" value="" /></td>
                     </tr>
+		    <tr>
+                        <td>Password1</td>
+                        <td><input type="password1" name="password1" value="" /></td>
+                    </tr>
                     <tr>
                         <td><input type="submit" value="Submit" /></td>
                         <td><input type="reset" value="Reset" /></td>
